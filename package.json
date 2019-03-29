@@ -1,9 +1,9 @@
 {
-  "name": "slate-code-block",
+  "name": "@tildepage/slate-code-block",
   "description": "A Slate plugin to handle code blocks editing. Fork from GitbookIO/slate-edit-code",
-  "version": "0.16.0",
+  "version": "0.1.0",
   "license": "Apache-2.0",
-  "repository": "git://github.com/linonetwo/slate-edit-code.git",
+  "repository": "git://github.com/cdunn/slate-edit-code.git",
   "main": "./dist/index.js",
   "dependencies": {
     "detect-indent": "^5.0.0",
